@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/industtrial_coso.png-b0ba885c2af20e0c66ab3eafc51fd004.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/levels/industtrial_coso.png"
+dest_files=[ "res://.import/industtrial_coso.png-b0ba885c2af20e0c66ab3eafc51fd004.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
